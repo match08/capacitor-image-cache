@@ -1,7 +1,6 @@
 .idea
 node_modules
 .DS_Store
-dist
 src/core/ios/Plugin/Pods/
 demo/android/app/src/main/assets
 src/core/android/capacitor-image-cache/build
